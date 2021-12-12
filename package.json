@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-aws-s3-cdn",
+  "name": "strapi-provider-upload-s3-cdn",
   "version": "4.0.0",
   "description": "AWS S3 provider for strapi upload with the option to use a CDN for the public URL",
   "keywords": [
@@ -12,11 +12,11 @@
   ],
   "homepage": "https://github.com/LagExpress",
   "bugs": {
-    "url": "https://github.com/LagExpress/strapi-provider-upload-aws-s3-cdn/issues"
+    "url": "https://github.com/LagExpress/strapi-provider-upload-s3-cdn/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LagExpress/strapi-provider-upload-aws-s3-cdn.git"
+    "url": "https://github.com/LagExpress/strapi-provider-upload-s3-cdn.git"
   },
   "license": "MIT",
   "author": {

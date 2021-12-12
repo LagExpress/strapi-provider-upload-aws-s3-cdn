@@ -1,4 +1,4 @@
-# strapi-provider-upload-aws-s3-cdn
+# strapi-provider-upload-s3-cdn
 
 This is bassically a carbon copy of the official [@strapi/provider-upload-aws-s3](https://www.npmjs.com/package/@strapi/provider-upload-aws-s3) package, with just a small addition to the `upload` method to support the `cdn` option.
 
@@ -17,10 +17,10 @@ This is bassically a carbon copy of the official [@strapi/provider-upload-aws-s3
 
 ```bash
 # using yarn
-yarn add strapi-provider-upload-aws-s3-cdn
+yarn add strapi-provider-upload-s3-cdn
 
 # using npm
-npm install strapi-provider-upload-aws-s3-cdn
+npm install strapi-provider-upload-s3-cdn
 ```
 
 ## Configurations
