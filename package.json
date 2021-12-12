@@ -1,0 +1,49 @@
+{
+  "name": "strapi-provider-upload-aws-s3-cdn",
+  "version": "4.0.0",
+  "description": "AWS S3 provider for strapi upload with the option to use a CDN for the public URL",
+  "keywords": [
+    "aws",
+    "s3",
+    "cdn",
+    "strapi",
+    "upload",
+    "endpoint"
+  ],
+  "homepage": "https://github.com/LagExpress",
+  "bugs": {
+    "url": "https://github.com/LagExpress/strapi-provider-upload-aws-s3-cdn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LagExpress/strapi-provider-upload-aws-s3-cdn.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Mateo Ceballos",
+    "email": "ceballos@live.com.ar",
+    "url": "https://github.com/LagExpress"
+  },
+  "maintainers": [
+    {
+      "name": "Mateo Ceballos",
+      "email": "ceballos@live.com.ar",
+      "url": "https://github.com/LagExpress"
+    }
+  ],
+  "main": "./lib",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "dependencies": {
+    "aws-sdk": "2.892.0",
+    "lodash": "4.17.21"
+  },
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  }
+}
